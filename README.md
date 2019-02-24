@@ -25,6 +25,8 @@ You can easily configure WiFi of ESP32 using Bluetooth from iOS device.
 |Wi-Fi Access Point|
 ```
 
+[![Youtube](http://img.youtube.com/vi/VWDOaWik_ok/0.jpg)](http://www.youtube.com/watch?v=VWDOaWik_ok)
+
 ## GATT Specifications
 
 ### Service Name
